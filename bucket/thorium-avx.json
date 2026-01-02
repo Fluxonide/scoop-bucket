@@ -11,13 +11,13 @@
     },
     "bin": [
         [
-            "BIN\\thorium.exe",
+            "THORIUM.BAT",
             "Thorium"
         ]
     ],
     "shortcuts": [
         [
-            "BIN\\thorium.exe",
+            "THORIUM.BAT",
             "Thorium AVX"
         ]
     ],
