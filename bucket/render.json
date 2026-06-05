@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/render-oss/cli/releases/download/v2.19.0/cli_2.19.0_windows_amd64.zip",
             "hash": "ef67824f7927c966241cf6f9a2b3f997a98ec2d47033fa1e606600f2fe724af8",
-            "bin": "render.exe"
+            "bin": [["cli_v2.19.0.exe", "render"]]
         }
     },
     "checkver": {
